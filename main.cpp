@@ -2,5 +2,4 @@
 int main() 
 { 
  cout << "First commit" << endl; 
- return 0; 
 }
